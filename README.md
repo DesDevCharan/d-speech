@@ -1,5 +1,5 @@
 # d-speech
-speech-reco-FI
+speech-recognition
 
 Steps to start dev server
 
