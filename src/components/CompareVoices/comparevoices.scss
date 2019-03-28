@@ -1,0 +1,29 @@
+.align-left {
+    float:left;
+    width:49%;
+}
+
+.align-right {
+    float:right;
+    width:50%;
+}
+
+.align-text {
+    text-align: center;
+}
+
+.compare-button {
+    position: fixed !important;
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #bde77d !important;
+}
+
+h2{
+    font-weight: 600;
+}
+
+.d-content {
+    padding: 0 !important;
+}
